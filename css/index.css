@@ -1,0 +1,64 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+.carousel-item{
+  width: 100%;
+  height: 94vh;
+}
+
+.nav-link{
+  color: white;
+}
+
+.nav-link:hover{
+  color: grey;
+}
+
+.navbar-brand:hover{
+  color: grey;
+}
+
+h5{
+  font-size: 44px;
+  color: black;
+}
+
+p{
+  font-size: 24px;
+
+}
+
+
+footer{
+  padding: 10px 0;
+  background-color: #101010;
+  color: #9d9d9d;
+}
+
+.card{
+  width: 36rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.jumbotron {
+  padding: 3rem 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: .3rem;
+  text-align: center;
+}
+
+.row{
+  text-align: center;
+}
+
+.card img{
+  height: 35%;
+}
